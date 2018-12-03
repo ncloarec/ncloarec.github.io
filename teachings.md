@@ -25,14 +25,14 @@ Sources :
 
 # First year
 
-### [Sets, relations and functions](../PDF/teachings/sup/Sheet1.pdf)
+### [Chapter 1: Sets, relations and functions](../PDF/teachings/sup/Sheet1.pdf)
 <!-- 1. Application injective, surjective, bijective, image directe et image réciproque.
 <!-- 2. Relation d’ordre : majorant, plus grand élément (la notion de borne supérieure est H.P. dans le cas général. Le -->
 <!-- cas de R sera vu plus tard). -->
 <!-- 3. Relation d’équivalence, classes d’équivalence. -->
 <!-- 4. Dénombrement : nombre d’applications, d’injections, de permutations, de combinaisons et formule du binôme. --> -->
 
-### [Algebraic structures, real and complex fields](../PDF/teachings/sup/Sheet2.pdf)
+### [Chapter 2: Algebraic structures, real and complex fields](../PDF/teachings/sup/Sheet2.pdf)
 <!-- 1. Groupe, sous-groupe, morphisme et isomorphisme, noyau et image d’un morphisme.
 <!-- 2. Anneau et sous-anneau, morphisme et isomorphisme (l’anneau est unitaire). -->
 <!-- 3. Corps et sous-corps (commutatif). --> -->
@@ -48,14 +48,14 @@ Sources :
 <!-- 3. Application à la trigonométrie -->
 
 
-### [Standard functions](../PDF/teachings/sup/Sheet3.pdf)
+### [Chapter 3: Standard functions](../PDF/teachings/sup/Sheet3.pdf)
 <!-- 1. Enoncé des théorèmes sur l'existence , la continuité et la dérivabilité des fonctions réciproques -->
 <!-- 2. Fonctions logarithmes et exponentielles -->
 <!-- 3. Les fonctions Arcsin, Arccos, Arctan -->
 <!-- 4. Les fonctions sh, ch, th ( réciproques HP ) -->
 
 
-### [Real and complex sequences](../PDF/teachings/sup/Sheet4.pdf)
+### [Chapter 4: Real and complex sequences](../PDF/teachings/sup/Sheet4.pdf)
 <!-- 1. Généralités, opérations sur les limites, convergence -->
 <!-- 2. Suites réelles: limites monotones, suites adjacentes, -->
 <!-- 3. Suites classiques :arithmétique, géométrique, arithmético-géométrique, linéaire récurrence du 2° ordre , -->
@@ -63,7 +63,7 @@ Sources :
 <!-- 4. Comparaisons: négligeabilité, équivalence -->
 <!-- 5. Suites extraites -->
 
-### [Continuous function and local properties](../PDF/teachings/sup/Sheet5.pdf)
+### [Chapter 5: Continuous function and local properties](../PDF/teachings/sup/Sheet5.pdf)
 <!-- 1. Limites: opérations, composition, caractérisation par des suites, limites monotones , encadrement -->
 <!-- 2. Comparaisons locales: négligeabilité, équivalence -->
 <!-- 3. Généralités sur la continuité : définition , prolongement continuité , opérations, composition, fonction lipchitzienne -->
@@ -72,29 +72,29 @@ Sources :
 6. Continuité uniforme
 7. Suites un+1=f(un) -->
 
-### [Derivation](../PDF/teachings/sup/Sheet6.pdf)
+### [Chapter 6: Derivation](../PDF/teachings/sup/Sheet6.pdf)
 <!-- 1. Théorèmes généraux sur la dérivabilité : opérations, composition -->
 <!-- 2. Théorème de Rolle et ses applications -->
 <!-- 3. Dérivabilité de fonction réciproque -->
 
-### [Complex and real series](../PDF/teachings/sup/Sheet7.pdf)
+### [Chapter 7: Complex and real series](../PDF/teachings/sup/Sheet7.pdf)
 <!-- 1. Convergence , opérations, convergence absolue -->
 <!-- 2. Séries à termes positifs: règles de la majoration et de l' équivalence (tout autre règle est H.P.) -->
 <!-- 3. Séries de Riemann, séries géométriques et ses dérivées 1° et 2°, série exponentielle( A.) -->
 
-### [Taylor series](../PDF/teachings/sup/Sheet8.pdf)
+### [Chapter 8: Taylor series](../PDF/teachings/sup/Sheet8.pdf)
 <!-- 1. Formules de Taylor. -->
 <!-- 2. Propriétés des d.l. , opérations sur les d.l., formule de Taylor-Young -->
 <!-- 3. Applications des d.l.: études locales, comportement asymptotique de fonctions et de suites -->
 
-### [Vector spaces](../PDF/teachings/sup/Sheet9.pdf)
+### [Chapter 9: Vector spaces](../PDF/teachings/sup/Sheet9.pdf)
 <!-- 1. Généralités: e.v., s.e.v., algèbre , sous-algèbre -->
 <!-- 2. Applications linéaires, morphisme d'algèbre , l'e.v. L(E,F) , l'algèbre L(E) , le groupe GL(E) , noyau et image -->
 <!-- 3. Somme, somme directe de 2 s.e.v. , s.e.v. supplémentaires , projecteurs et symétries vectoriels -->
 <!-- 4. Familles libres, familles génératrices , bases -->
 <!-- 5. Familles de vecteurs et applications linéaires -->
 
-### [Finite dimensional vector spaces](../PDF/teachings/sup/Sheet10.pdf)
+### [Chapter 10: Finite dimensional vector spaces](../PDF/teachings/sup/Sheet10.pdf)
 <!-- 1. Existence de bases en dimension finie, dimension -->
 <!-- 2. Somme de 2 s.e.v. et existence de supplémentaires en dimension finie -->
 <!-- 3. Application linéaire en dimension finie: rang, théorème du rang, caractérisation des isomorphismes en -->
@@ -102,48 +102,48 @@ Sources :
 <!-- 4. Eléments propres d'un endomorphisme . -->
 <!-- 5. Récurrence linéaire du 2° ordre -->
 
-### [Matrix](../PDF/teachings/sup/Sheet11.pdf)
+### [Chapter 11: Matrix](../PDF/teachings/sup/Sheet11.pdf)
 <!-- 1. Matrice d'application linéaire, l'e.v. Mnp(K) ,transposition -->
 <!-- 2. Le groupe GLn(K) ,rang d'une matrice -->
 <!-- 3. Exemples de calculs de puissances de matrices -->
 <!-- 4. Changement de bases, matrices équivalentes et semblables -->
 
-### [Arithmetic and Polynomial](../PDF/teachings/sup/Sheet12.pdf)
-**Arithmetic** :
+### [Chapter 12: Arithmetic and Polynomial](../PDF/teachings/sup/Sheet12.pdf)
+<!-- **Arithmetic** : -->
 <!-- 1. Division euclidienne , sous-groupes de 􏰄 -->
 <!-- 2. Pgcd, théorème de Bezout ,algorithme d'Euclide , ppcm -->
 <!-- 3. Nombres premiers, décomposition en facteurs premiers -->
 
-**Polynomes** :
+<!-- **Polynomes** : -->
 <!-- 1. Degré, intégrité de K[X] , l'e.v. Kn[X] -->
 <!-- 2. Division euclidienne -->
 <!-- 3. Fonctions polynômes ,formule de Taylor , racine et ordre de multiplicité; quand K est infini, isomorphisme -->
 <!-- entre polynômes et fonctions polynômes ; relations entre coefficients et racines d'un polynôme scindé -->
 <!-- 4. Factorisation dans 􏰁[X] et 􏰃[X] -->
 
-### [Integral](../PDF/teachings/sup/Sheet13.pdf)
+### [Chapter 13: Integral](../PDF/teachings/sup/Sheet13.pdf)
 <!-- 1. Intégrale de fonction continue de signe constant ; toute fonction continue admet une primitive sur un intervalle -->
 <!-- 2. Intégration par parties ,changement de variable -->
 <!-- 3. Exemples d'étude de fonctions et de suites définies par une intégrale -->
 <!-- 4. Méthodes des rectangles, sommes de Riemann -->
 
-### [Review](../PDF/teachings/sup/Sheet14.pdf)
+### [Intermediary Chapter: Review](../PDF/teachings/sup/Sheet14.pdf)
 <!-- Everything since the beginning of the year. -->
 
-### [Determinant](../PDF/teachings/sup/Sheet15.pdf)
-**Determinants** :
+### [Chapter 14: Determinant](../PDF/teachings/sup/Sheet15.pdf)
+<!-- **Determinants** : -->
 <!-- 1. Déterminant d’une famille de vecteurs relativement à une base -->
 <!-- 2. Déterminant d’un endomorphisme ,déterminant d’une matrice -->
 <!-- 3. Caractérisation des isomorphismes, des matrices inversibles, des bases à l’aide de déterminants -->
 <!-- 4. Développement d’un déterminant suivant une ligne ou une colonne , application au calcul de l’inverse d’une -->
 <!-- matrice -->
 
-**Linear systems** :
+<!-- **Linear systems** : -->
 <!-- 1. Systèmes homogènes -->
 <!-- 2. Systèmes de Cramer -->
 <!-- 3. Méthode du pivot de Gauss -->
 
-### [Real pre-hilbertian spaces](../PDF/teachings/sup/Sheet16.pdf)
+### [Chapter 15: Real pre-hilbertian spaces](../PDF/teachings/sup/Sheet16.pdf)
 <!-- 1. Produit scalaire, norme -->
 <!-- 2. Orthogonalité, base orthonormée -->
 <!-- 3. Projecteurs, symétries orthogonaux -->
@@ -151,44 +151,44 @@ Sources :
 
 # Second year
 
-### [Advanced summation calculus](../PDF/teachings/spe/algebra/Sheet1.pdf)
+### [Chapter 1: Advanced summation calculus](../PDF/teachings/spe/algebra/Sheet1.pdf)
 
 
-### [Groups](../PDF/teachings/spe/algebra/Sheet2.pdf)
+### [Chapter 2: Groups](../PDF/teachings/spe/algebra/Sheet2.pdf)
 
 
-### [Rings](../PDF/teachings/spe/algebra/Sheet3.pdf)
+### [Chapter 3: Rings](../PDF/teachings/spe/algebra/Sheet3.pdf)
 
 
-### [Diagonalization](../PDF/teachings/spe/algebra/Sheet4.pdf)
+### [Chapter 4: Diagonalization](../PDF/teachings/spe/algebra/Sheet4.pdf)
 
 
-### [Advanced determinants](../PDF/teachings/spe/algebra/Sheet5.pdf)
+### [Chapter 5: Advanced determinants](../PDF/teachings/spe/algebra/Sheet5.pdf)
 
 
 
-### [Topology of normed vector spaces](../PDF/teachings/spe/analysis/Sheet1.pdf)
+### [Chapter 6: Topology of normed vector spaces](../PDF/teachings/spe/analysis/Sheet1.pdf)
 
 
-### [Advanced series](../PDF/teachings/spe/analysis/Sheet2.pdf)
+### [Chapter 7: Advanced series](../PDF/teachings/spe/analysis/Sheet2.pdf)
 
 
-### [Series generalization](../PDF/teachings/spe/analysis/Sheet3.pdf)
+### [Chapter 8: Series generalization](../PDF/teachings/spe/analysis/Sheet3.pdf)
 
 
-### [Improper integral](../PDF/teachings/spe/analysis/Sheet4.pdf)
+### [Chapter 9: Improper integral](../PDF/teachings/spe/analysis/Sheet4.pdf)
 
 
-### [Power series](../PDF/teachings/spe/analysis/Sheet5.pdf)
+### [Chapter 10: Power series](../PDF/teachings/spe/analysis/Sheet5.pdf)
 
 
-### [Sequences and series of functions](../PDF/teachings/spe/analysis/Sheet6.pdf)
+### [Chapter 11: Sequences and series of functions](../PDF/teachings/spe/analysis/Sheet6.pdf)
 
 
-### [Parameter-dependent integrals](../PDF/teachings/spe/analysis/Sheet7.pdf)
+### [Chapter 12: Parameter-dependent integrals](../PDF/teachings/spe/analysis/Sheet7.pdf)
 
 
-### [Random variables](../PDF/teachings/spe/probability/Sheet3.pdf)
+### [Chapter 13: Random variables](../PDF/teachings/spe/probability/Sheet3.pdf)
 
 
 <!-- ### Robust Kronecker Component Analysis
