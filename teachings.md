@@ -5,8 +5,8 @@ permalink: /teachings/
 ---
 
 Here you can find some teachings with links to exercises I've selected per chapter when I was mathematics teaching assistant at
-+ [Collège Stanislas](https://www.stanislas.fr/presentation-des-classes-preparatoires) - 2016-2017 - **HX2** (*first year* class) - Prof. Célestin Rakotoniaina
-+ [Institut Bossuet](https://www.institutbossuet.fr/) - 2017-2018 - students in second year at [Louis-le-grand](), [Henri IV](), [Saint Louis]().
++ [Collège Stanislas](https://www.stanislas.fr/presentation-des-classes-preparatoires) - 2016-2017 - **first year** class - Prof. Célestin Rakotoniaina
++ [Institut Bossuet](https://www.institutbossuet.fr/) - 2017-2018 - **second year** *students* at [Louis-le-grand](), [Henri IV](), [Saint Louis]().
 
 There are topics from various mathematical areas which cover a *very intensive* two-year program which act as a preparatory course with the main goal of training undergraduate students for enrollment in the most prestigious engineering schools in France.
 
