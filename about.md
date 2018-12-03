@@ -8,11 +8,12 @@ permalink: /about/
 
 Hi! I'm **Nicolas Cloarec**, a *graduate student in Machine Learning*.
 
-I am a [MVA](https://www.enpc.fr/en/masters-mathematics-vision-learning) (MSc Mathematics, Vision, Learning) *graduate student* at ENS Paris-Saclay (formerly ENS Cachan) interested in quantitative research, trading, optimization, probability theory, statistics, functional analysis and Machine Learning.
+I am a [MVA](https://www.enpc.fr/en/masters-mathematics-vision-learning) (MSc Mathematics, Vision, Learning) *graduate student* at ENS Paris-Saclay (formerly ENS Cachan) interested in quantitative research, trading, optimization, probability theory, statistics and Machine Learning.
 
 <!-- {{ site.author.bio }} -->
 
-See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Cloarec_CV.pdf) or my short [Resume](http://ncloarec.github.io/PDF/Cloarec_resume.pdf).
+See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Cloarec_CV.pdf).
+<!-- or my short [Resume](http://ncloarec.github.io/PDF/Cloarec_resume.pdf). -->
 
 <!-- ## Current research interests -->
 
