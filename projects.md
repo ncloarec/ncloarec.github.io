@@ -11,15 +11,9 @@ Below are some select projects or homework I found interesting to share.
 The purpose of this project was to work on the asymptotic properties of the
 divisor graph introduced by [Paul Erdös and Eric Saias](http://matwbn.icm.edu.pl/ksiazki/aa/aa73/aa7324.pdf).
 
-<!-- ![](/assets/images/graph1.png)
-![](/assets/images/graph2.png) -->
+![](/assets/images/graph1.png=250x)
+![](/assets/images/graph2.png=250x)
 
-<table>
-   <tr>
-       <td><div id="/assets/images/graph1.png" style="width: 300px;"></div></td>
-       <td><div id="/assets/images/graph2.png" style="width: 300px;"></div></td>
-   </tr>
-<table>
 
 * [Slides introduction](https://github.com/ncloarec/TIPE/blob/master/info.pdf)
 * [Slides implementation](https://github.com/ncloarec/TIPE/blob/master/tipe.pdf)
