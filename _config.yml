@@ -33,12 +33,9 @@ author:
   job      : "graduate student in Machine Learning"
   bio      : "I am a <a href=\"https://www.enpc.fr/en/masters-mathematics-vision-learning\">MVA</a> (MSc Mathematics, Vision, Learning) graduate student <em>in Machine Learning</em> at ENS Paris-Saclay (formerly ENS Cachan) interested in quantitative research, power trading, optimization, probability theory, statistics, functional analysis and Machine Learning."
   thumb    : /images/author.jpg
-  email    : mehdi.b.tn@gmail.com
+  email    : ncloarec@gmail.com
   url      : http://ncloarec.github.io
-  github   : http://github.com/mbahri
-  # twitter  : http://twitter.com/HeiswayiNrird
-  # facebook : https://www.facebook.com/heiswayi.nrird
-  # linkedin : http://linkedin.com/in/nrird
+  github   : http://github.com/ncloarec
 
 # social settings
 og_locale: "en_US"
