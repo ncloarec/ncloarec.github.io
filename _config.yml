@@ -1,0 +1,59 @@
+
+# SEO settings
+title: "Nicolas "
+title2: "Cloarec" # default: ""
+description: "MVA student in Machine Learning."
+keywords: "Nicolas, Cloarec, data, science, machine, learning, statistics, optimisation, optimization, KDRSDL, ICCV, geometric, deep, graph, manifold"
+url: http://ncloarec.github.io/ # site url
+baseurl: "" # apply repo name if use it under gh-pages branch
+# baseurl: null # apply null if repo name is something like username.github.io
+
+# google_analytics: UA-XXXXX-XX
+# repo: http://github.com/heiswayi/thinkspace
+# disqus_shortname: "hnbloggithub"
+# twitter_username: "HeiswayiNrird"
+# comments: true
+
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
+
+source: ./
+destination: ./_site
+
+# Sass configuration
+sass:
+  sass_dir: assets/scss
+  style: compressed # expanded
+
+# Author settings
+author:
+  name     : "Nicolas Cloarec"
+  job      : "graduate student in Machine Learning"
+  bio      : "I am a <a href=\"https://www.enpc.fr/en/masters-mathematics-vision-learning\">MVA</a> (MSc Mathematics, Vision, Learning) graduate student <em>in Machine Learning</em> at ENS Paris-Saclay (formerly ENS Cachan) interested in quantitative research, power trading, optimization, probability theory, statistics, functional analysis and Machine Learning."
+  thumb    : /images/author.jpg
+  email    : mehdi.b.tn@gmail.com
+  url      : http://ncloarec.github.io
+  github   : http://github.com/mbahri
+  # twitter  : http://twitter.com/HeiswayiNrird
+  # facebook : https://www.facebook.com/heiswayi.nrird
+  # linkedin : http://linkedin.com/in/nrird
+
+# social settings
+og_locale: "en_US"
+twitter_card: "summary_large_image"
+twitter_site: "@HeiswayiNrird"
+
+gems:
+  - bourbon
+  - jekyll-paginate
+
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
