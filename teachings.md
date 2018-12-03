@@ -26,170 +26,170 @@ Sources :
 # First year
 
 ### [Sets, relations and functions](../PDF/teachings/sup/Sheet1.pdf)
-1. Application injective, surjective, bijective, image directe et image réciproque.
-2. Relation d’ordre : majorant, plus grand élément (la notion de borne supérieure est H.P. dans le cas général. Le
-cas de R sera vu plus tard).
-3. Relation d’équivalence, classes d’équivalence.
-4. Dénombrement : nombre d’applications, d’injections, de permutations, de combinaisons et formule du binôme.
+<!-- 1. Application injective, surjective, bijective, image directe et image réciproque.
+<!-- 2. Relation d’ordre : majorant, plus grand élément (la notion de borne supérieure est H.P. dans le cas général. Le -->
+<!-- cas de R sera vu plus tard). -->
+<!-- 3. Relation d’équivalence, classes d’équivalence. -->
+<!-- 4. Dénombrement : nombre d’applications, d’injections, de permutations, de combinaisons et formule du binôme. --> -->
 
 ### [Algebraic structures, real and complex fields](../PDF/teachings/sup/Sheet2.pdf)
-1. Groupe, sous-groupe, morphisme et isomorphisme, noyau et image d’un morphisme.
-2. Anneau et sous-anneau, morphisme et isomorphisme (l’anneau est unitaire).
-3. Corps et sous-corps (commutatif).
-
+<!-- 1. Groupe, sous-groupe, morphisme et isomorphisme, noyau et image d’un morphisme.
+<!-- 2. Anneau et sous-anneau, morphisme et isomorphisme (l’anneau est unitaire). -->
+<!-- 3. Corps et sous-corps (commutatif). --> -->
+<!--
 **Real field** :
 
-+ Théorème de la borne supérieure, intervalles, partie entière.
++ Théorème de la borne supérieure, intervalles, partie entière. -->
 
-**Complex field** :
+<!-- **Complex field** : -->
 
-1. Module, argument
-2. Racines ne d'un nombre complexe , exponentielle complexe , formule de Moivre
-3. Application à la trigonométrie
+<!-- 1. Module, argument -->
+<!-- 2. Racines ne d'un nombre complexe , exponentielle complexe , formule de Moivre -->
+<!-- 3. Application à la trigonométrie -->
 
 
 ### [Standard functions](../PDF/teachings/sup/Sheet3.pdf)
-1. Enoncé des théorèmes sur l'existence , la continuité et la dérivabilité des fonctions réciproques
-2. Fonctions logarithmes et exponentielles
-3. Les fonctions Arcsin, Arccos, Arctan
-4. Les fonctions sh, ch, th ( réciproques HP )
+<!-- 1. Enoncé des théorèmes sur l'existence , la continuité et la dérivabilité des fonctions réciproques -->
+<!-- 2. Fonctions logarithmes et exponentielles -->
+<!-- 3. Les fonctions Arcsin, Arccos, Arctan -->
+<!-- 4. Les fonctions sh, ch, th ( réciproques HP ) -->
 
 
 ### [Real and complex sequences](../PDF/teachings/sup/Sheet4.pdf)
-1. Généralités, opérations sur les limites, convergence
-2. Suites réelles: limites monotones, suites adjacentes,
-3. Suites classiques :arithmétique, géométrique, arithmético-géométrique, linéaire récurrence du 2° ordre ,
-homographique
-4. Comparaisons: négligeabilité, équivalence
-5. Suites extraites
+<!-- 1. Généralités, opérations sur les limites, convergence -->
+<!-- 2. Suites réelles: limites monotones, suites adjacentes, -->
+<!-- 3. Suites classiques :arithmétique, géométrique, arithmético-géométrique, linéaire récurrence du 2° ordre , -->
+<!-- homographique -->
+<!-- 4. Comparaisons: négligeabilité, équivalence -->
+<!-- 5. Suites extraites -->
 
 ### [Continuous function and local properties](../PDF/teachings/sup/Sheet5.pdf)
-1. Limites: opérations, composition, caractérisation par des suites, limites monotones , encadrement
-2. Comparaisons locales: négligeabilité, équivalence
-3. Généralités sur la continuité : définition , prolongement continuité , opérations, composition, fonction lipchitzienne
-4. Théorème des valeurs intermédiaires (A.) , image continue d'un intervalle et d'un segment
-5. Réciproque d'une fonction continue strictement monotones sur un intervalle
+<!-- 1. Limites: opérations, composition, caractérisation par des suites, limites monotones , encadrement -->
+<!-- 2. Comparaisons locales: négligeabilité, équivalence -->
+<!-- 3. Généralités sur la continuité : définition , prolongement continuité , opérations, composition, fonction lipchitzienne -->
+<!-- 4. Théorème des valeurs intermédiaires (A.) , image continue d'un intervalle et d'un segment -->
+<!-- 5. Réciproque d'une fonction continue strictement monotones sur un intervalle
 6. Continuité uniforme
-7. Suites un+1=f(un)
+7. Suites un+1=f(un) -->
 
 ### [Derivation](../PDF/teachings/sup/Sheet6.pdf)
-1. Théorèmes généraux sur la dérivabilité : opérations, composition
-2. Théorème de Rolle et ses applications
-3. Dérivabilité de fonction réciproque
+<!-- 1. Théorèmes généraux sur la dérivabilité : opérations, composition -->
+<!-- 2. Théorème de Rolle et ses applications -->
+<!-- 3. Dérivabilité de fonction réciproque -->
 
 ### [Complex and real series](../PDF/teachings/sup/Sheet7.pdf)
-1. Convergence , opérations, convergence absolue
-2. Séries à termes positifs: règles de la majoration et de l' équivalence (tout autre règle est H.P.)
-3. Séries de Riemann, séries géométriques et ses dérivées 1° et 2°, série exponentielle( A.)
+<!-- 1. Convergence , opérations, convergence absolue -->
+<!-- 2. Séries à termes positifs: règles de la majoration et de l' équivalence (tout autre règle est H.P.) -->
+<!-- 3. Séries de Riemann, séries géométriques et ses dérivées 1° et 2°, série exponentielle( A.) -->
 
 ### [Taylor series](../PDF/teachings/sup/Sheet8.pdf)
-1. Formules de Taylor.
-2. Propriétés des d.l. , opérations sur les d.l., formule de Taylor-Young
-3. Applications des d.l.: études locales, comportement asymptotique de fonctions et de suites
+<!-- 1. Formules de Taylor. -->
+<!-- 2. Propriétés des d.l. , opérations sur les d.l., formule de Taylor-Young -->
+<!-- 3. Applications des d.l.: études locales, comportement asymptotique de fonctions et de suites -->
 
 ### [Vector spaces](../PDF/teachings/sup/Sheet9.pdf)
-1. Généralités: e.v., s.e.v., algèbre , sous-algèbre
-2. Applications linéaires, morphisme d'algèbre , l'e.v. L(E,F) , l'algèbre L(E) , le groupe GL(E) , noyau et image
-3. Somme, somme directe de 2 s.e.v. , s.e.v. supplémentaires , projecteurs et symétries vectoriels
-4. Familles libres, familles génératrices , bases
-5. Familles de vecteurs et applications linéaires
+<!-- 1. Généralités: e.v., s.e.v., algèbre , sous-algèbre -->
+<!-- 2. Applications linéaires, morphisme d'algèbre , l'e.v. L(E,F) , l'algèbre L(E) , le groupe GL(E) , noyau et image -->
+<!-- 3. Somme, somme directe de 2 s.e.v. , s.e.v. supplémentaires , projecteurs et symétries vectoriels -->
+<!-- 4. Familles libres, familles génératrices , bases -->
+<!-- 5. Familles de vecteurs et applications linéaires -->
 
 ### [Finite dimensional vector spaces](../PDF/teachings/sup/Sheet10.pdf)
-1. Existence de bases en dimension finie, dimension
-2. Somme de 2 s.e.v. et existence de supplémentaires en dimension finie
-3. Application linéaire en dimension finie: rang, théorème du rang, caractérisation des isomorphismes en
-dimension finie
-4. Eléments propres d'un endomorphisme .
-5. Récurrence linéaire du 2° ordre
+<!-- 1. Existence de bases en dimension finie, dimension -->
+<!-- 2. Somme de 2 s.e.v. et existence de supplémentaires en dimension finie -->
+<!-- 3. Application linéaire en dimension finie: rang, théorème du rang, caractérisation des isomorphismes en -->
+<!-- dimension finie -->
+<!-- 4. Eléments propres d'un endomorphisme . -->
+<!-- 5. Récurrence linéaire du 2° ordre -->
 
 ### [Matrix](../PDF/teachings/sup/Sheet11.pdf)
-1. Matrice d'application linéaire, l'e.v. Mnp(K) ,transposition
-2. Le groupe GLn(K) ,rang d'une matrice
-3. Exemples de calculs de puissances de matrices
-4. Changement de bases, matrices équivalentes et semblables
+<!-- 1. Matrice d'application linéaire, l'e.v. Mnp(K) ,transposition -->
+<!-- 2. Le groupe GLn(K) ,rang d'une matrice -->
+<!-- 3. Exemples de calculs de puissances de matrices -->
+<!-- 4. Changement de bases, matrices équivalentes et semblables -->
 
 ### [Arithmetic and Polynomial](../PDF/teachings/sup/Sheet12.pdf)
 **Arithmetic** :
-1. Division euclidienne , sous-groupes de 􏰄
-2. Pgcd, théorème de Bezout ,algorithme d'Euclide , ppcm
-3. Nombres premiers, décomposition en facteurs premiers
+<!-- 1. Division euclidienne , sous-groupes de 􏰄 -->
+<!-- 2. Pgcd, théorème de Bezout ,algorithme d'Euclide , ppcm -->
+<!-- 3. Nombres premiers, décomposition en facteurs premiers -->
 
 **Polynomes** :
-1. Degré, intégrité de K[X] , l'e.v. Kn[X]
-2. Division euclidienne
-3. Fonctions polynômes ,formule de Taylor , racine et ordre de multiplicité; quand K est infini, isomorphisme
-entre polynômes et fonctions polynômes ; relations entre coefficients et racines d'un polynôme scindé
-4. Factorisation dans 􏰁[X] et 􏰃[X]
+<!-- 1. Degré, intégrité de K[X] , l'e.v. Kn[X] -->
+<!-- 2. Division euclidienne -->
+<!-- 3. Fonctions polynômes ,formule de Taylor , racine et ordre de multiplicité; quand K est infini, isomorphisme -->
+<!-- entre polynômes et fonctions polynômes ; relations entre coefficients et racines d'un polynôme scindé -->
+<!-- 4. Factorisation dans 􏰁[X] et 􏰃[X] -->
 
 ### [Integral](../PDF/teachings/sup/Sheet13.pdf)
-1. Intégrale de fonction continue de signe constant ; toute fonction continue admet une primitive sur un intervalle
-2. Intégration par parties ,changement de variable
-3. Exemples d'étude de fonctions et de suites définies par une intégrale
-4. Méthodes des rectangles, sommes de Riemann
+<!-- 1. Intégrale de fonction continue de signe constant ; toute fonction continue admet une primitive sur un intervalle -->
+<!-- 2. Intégration par parties ,changement de variable -->
+<!-- 3. Exemples d'étude de fonctions et de suites définies par une intégrale -->
+<!-- 4. Méthodes des rectangles, sommes de Riemann -->
 
 ### [Review](../PDF/teachings/sup/Sheet14.pdf)
-Everything since the beginning of the year.
+<!-- Everything since the beginning of the year. -->
 
 ### [Determinant](../PDF/teachings/sup/Sheet15.pdf)
 **Determinants** :
-1. Déterminant d’une famille de vecteurs relativement à une base
-2. Déterminant d’un endomorphisme ,déterminant d’une matrice
-3. Caractérisation des isomorphismes, des matrices inversibles, des bases à l’aide de déterminants
-4. Développement d’un déterminant suivant une ligne ou une colonne , application au calcul de l’inverse d’une
-matrice
+<!-- 1. Déterminant d’une famille de vecteurs relativement à une base -->
+<!-- 2. Déterminant d’un endomorphisme ,déterminant d’une matrice -->
+<!-- 3. Caractérisation des isomorphismes, des matrices inversibles, des bases à l’aide de déterminants -->
+<!-- 4. Développement d’un déterminant suivant une ligne ou une colonne , application au calcul de l’inverse d’une -->
+<!-- matrice -->
 
 **Linear systems** :
-1. Systèmes homogènes
-2. Systèmes de Cramer
-3. Méthode du pivot de Gauss
+<!-- 1. Systèmes homogènes -->
+<!-- 2. Systèmes de Cramer -->
+<!-- 3. Méthode du pivot de Gauss -->
 
 ### [Real pre-hilbertian spaces](../PDF/teachings/sup/Sheet16.pdf)
-1. Produit scalaire, norme
-2. Orthogonalité, base orthonormée
-3. Projecteurs, symétries orthogonaux
+<!-- 1. Produit scalaire, norme -->
+<!-- 2. Orthogonalité, base orthonormée -->
+<!-- 3. Projecteurs, symétries orthogonaux -->
 
 
 # Second year
 
 ### [Advanced summation calculus](../PDF/teachings/spe/algebra/Sheet1.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Groups](../PDF/teachings/spe/algebra/Sheet2.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Rings](../PDF/teachings/spe/algebra/Sheet3.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Diagonalization](../PDF/teachings/spe/algebra/Sheet4.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Advanced determinants](../PDF/teachings/spe/algebra/Sheet5.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 
 ### [Topology of normed vector spaces](../PDF/teachings/spe/analysis/Sheet1.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Advanced series](../PDF/teachings/spe/analysis/Sheet2.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Series generalization](../PDF/teachings/spe/analysis/Sheet3.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Improper integral](../PDF/teachings/spe/analysis/Sheet4.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Power series](../PDF/teachings/spe/analysis/Sheet5.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Sequences and series of functions](../PDF/teachings/spe/analysis/Sheet6.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Parameter-dependent integrals](../PDF/teachings/spe/analysis/Sheet7.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 ### [Random variables](../PDF/teachings/spe/probability/Sheet3.pdf)
-+ injectivity, surjectivity, bijectivity, inverse image
+
 
 <!-- ### Robust Kronecker Component Analysis
 
