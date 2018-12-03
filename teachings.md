@@ -30,12 +30,12 @@ Sources :
 <!-- 2. Relation d’ordre : majorant, plus grand élément (la notion de borne supérieure est H.P. dans le cas général. Le -->
 <!-- cas de R sera vu plus tard). -->
 <!-- 3. Relation d’équivalence, classes d’équivalence. -->
-<!-- 4. Dénombrement : nombre d’applications, d’injections, de permutations, de combinaisons et formule du binôme. --> -->
+<!-- 4. Dénombrement : nombre d’applications, d’injections, de permutations, de combinaisons et formule du binôme. --> 
 
 ### [Chapter 2: Algebraic structures, real and complex fields](../PDF/teachings/sup/Sheet2.pdf)
 <!-- 1. Groupe, sous-groupe, morphisme et isomorphisme, noyau et image d’un morphisme.
 <!-- 2. Anneau et sous-anneau, morphisme et isomorphisme (l’anneau est unitaire). -->
-<!-- 3. Corps et sous-corps (commutatif). --> -->
+<!-- 3. Corps et sous-corps (commutatif). -->
 <!--
 **Real field** :
 
