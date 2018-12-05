@@ -15,7 +15,7 @@ divisor graph introduced by [Paul Erdös and Eric Saias](http://matwbn.icm.edu.p
 
 ![](/assets/images/graph1.svg) ![](/assets/images/graph2.svg)
 
-*Two different representation of the divisor graph for n=9*
+*Two different representation of the divisor graph for n=9.*
 
 
 * [Slides introduction](../PDF/projects/tipe/tipe.pdf)

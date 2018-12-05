@@ -58,7 +58,7 @@ Sources :
 * [Chapter 13 - Integral](../PDF/teachings/sup/Sheet13.pdf)
 
 
-* [Intermediary Chapter: Review -(../PDF/teachings/sup/Sheet14.pdf)
+* [Intermediary Chapter - Review](../PDF/teachings/sup/Sheet14.pdf)
 
 * [Chapter 14 - Determinant](../PDF/teachings/sup/Sheet15.pdf)
 
