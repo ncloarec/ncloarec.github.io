@@ -4,7 +4,7 @@ title: Teachings
 permalink: /teachings/
 ---
 
-Here you can find some teachings with links to exercises I've selected per chapter when I was mathematics teaching assistant at
+Here you can find some teachings with links to exercises *in french* I've selected per chapter when I was mathematics teaching assistant at
 + [Collège Stanislas](https://www.stanislas.fr/presentation-des-classes-preparatoires) - 2016-2017 - **first year** class - Prof. Célestin Rakotoniaina
 + [Institut Bossuet](https://www.institutbossuet.fr/) - 2017-2018 - **second year** *students* at [Louis-le-grand](), [Henri IV](), [Saint Louis]().
 
@@ -25,88 +25,88 @@ Sources :
 
 # First year
 
-* [Chapter 1: Sets, relations and functions](../PDF/teachings/sup/Sheet1.pdf)
+* [Chapter 1 - Sets, relations and functions](../PDF/teachings/sup/Sheet1.pdf)
 
-* [Chapter 2: Algebraic structures, real and complex fields](../PDF/teachings/sup/Sheet2.pdf)
+* [Chapter 2 - Algebraic structures, real and complex fields](../PDF/teachings/sup/Sheet2.pdf)
 
-* [Chapter 3: Standard functions](../PDF/teachings/sup/Sheet3.pdf)
+* [Chapter 3 - Standard functions](../PDF/teachings/sup/Sheet3.pdf)
 
-* [Chapter 4: Real and complex sequences](../PDF/teachings/sup/Sheet4.pdf)
+* [Chapter 4 - Real and complex sequences](../PDF/teachings/sup/Sheet4.pdf)
 
-* [Chapter 5: Continuous function and local properties](../PDF/teachings/sup/Sheet5.pdf)
+* [Chapter 5 - Continuous function and local properties](../PDF/teachings/sup/Sheet5.pdf)
 
-* [Chapter 6: Derivation](../PDF/teachings/sup/Sheet6.pdf)
+* [Chapter 6 - Derivation](../PDF/teachings/sup/Sheet6.pdf)
 
-* [Chapter 7: Complex and real series](../PDF/teachings/sup/Sheet7.pdf)
-
-
-* [Chapter 8: Taylor series](../PDF/teachings/sup/Sheet8.pdf)
+* [Chapter 7 - Complex and real series](../PDF/teachings/sup/Sheet7.pdf)
 
 
-* [Chapter 9: Vector spaces](../PDF/teachings/sup/Sheet9.pdf)
+* [Chapter 8 - Taylor series](../PDF/teachings/sup/Sheet8.pdf)
 
 
-* [Chapter 10: Finite dimensional vector spaces](../PDF/teachings/sup/Sheet10.pdf)
+* [Chapter 9 - Vector spaces](../PDF/teachings/sup/Sheet9.pdf)
 
 
-* [Chapter 11: Matrix](../PDF/teachings/sup/Sheet11.pdf)
+* [Chapter 10 - Finite dimensional vector spaces](../PDF/teachings/sup/Sheet10.pdf)
 
 
-* [Chapter 12: Arithmetic and Polynomial](../PDF/teachings/sup/Sheet12.pdf)
+* [Chapter 11 - Matrix](../PDF/teachings/sup/Sheet11.pdf)
 
 
-* [Chapter 13: Integral](../PDF/teachings/sup/Sheet13.pdf)
+* [Chapter 12 - Arithmetic and Polynomial](../PDF/teachings/sup/Sheet12.pdf)
 
 
-* [Intermediary Chapter: Review](../PDF/teachings/sup/Sheet14.pdf)
-
-* [Chapter 14: Determinant](../PDF/teachings/sup/Sheet15.pdf)
+* [Chapter 13 - Integral](../PDF/teachings/sup/Sheet13.pdf)
 
 
-* [Chapter 15: Real pre-hilbertian spaces](../PDF/teachings/sup/Sheet16.pdf)
+* [Intermediary Chapter: Review -(../PDF/teachings/sup/Sheet14.pdf)
+
+* [Chapter 14 - Determinant](../PDF/teachings/sup/Sheet15.pdf)
+
+
+* [Chapter 15 - Real pre-hilbertian spaces](../PDF/teachings/sup/Sheet16.pdf)
 
 
 
 # Second year
 
-* [Chapter 1: Advanced summation calculus](../PDF/teachings/spe/algebra/Sheet1.pdf)
+* [Chapter 1 - Advanced summation calculus](../PDF/teachings/spe/algebra/Sheet1.pdf)
 
 
-* [Chapter 2: Groups](../PDF/teachings/spe/algebra/Sheet2.pdf)
+* [Chapter 2 - Groups](../PDF/teachings/spe/algebra/Sheet2.pdf)
 
 
-* [Chapter 3: Rings](../PDF/teachings/spe/algebra/Sheet3.pdf)
+* [Chapter 3 - Rings](../PDF/teachings/spe/algebra/Sheet3.pdf)
 
 
-* [Chapter 4: Diagonalization](../PDF/teachings/spe/algebra/Sheet4.pdf)
+* [Chapter 4 - Diagonalization](../PDF/teachings/spe/algebra/Sheet4.pdf)
 
 
-* [Chapter 5: Advanced determinants](../PDF/teachings/spe/algebra/Sheet5.pdf)
+* [Chapter 5 - Advanced determinants](../PDF/teachings/spe/algebra/Sheet5.pdf)
 
 
 
-* [Chapter 6: Topology of normed vector spaces](../PDF/teachings/spe/analysis/Sheet1.pdf)
+* [Chapter 6 - Topology of normed vector spaces](../PDF/teachings/spe/analysis/Sheet1.pdf)
 
 
-* [Chapter 7: Advanced series](../PDF/teachings/spe/analysis/Sheet2.pdf)
+* [Chapter 7 - Advanced series](../PDF/teachings/spe/analysis/Sheet2.pdf)
 
 
-* [Chapter 8: Series generalization](../PDF/teachings/spe/analysis/Sheet3.pdf)
+* [Chapter 8 - Series generalization](../PDF/teachings/spe/analysis/Sheet3.pdf)
 
 
-* [Chapter 9: Improper integral](../PDF/teachings/spe/analysis/Sheet4.pdf)
+* [Chapter 9 - Improper integral](../PDF/teachings/spe/analysis/Sheet4.pdf)
 
 
-* [Chapter 10: Power series](../PDF/teachings/spe/analysis/Sheet5.pdf)
+* [Chapter 10 - Power series](../PDF/teachings/spe/analysis/Sheet5.pdf)
 
 
-* [Chapter 11: Sequences and series of functions](../PDF/teachings/spe/analysis/Sheet6.pdf)
+* [Chapter 11 - Sequences and series of functions](../PDF/teachings/spe/analysis/Sheet6.pdf)
 
 
-* [Chapter 12: Parameter-dependent integrals](../PDF/teachings/spe/analysis/Sheet7.pdf)
+* [Chapter 12 - Parameter-dependent integrals](../PDF/teachings/spe/analysis/Sheet7.pdf)
 
 
-* [Chapter 13: Random variables](../PDF/teachings/spe/probability/Sheet3.pdf)
+* [Chapter 13 - Random variables](../PDF/teachings/spe/probability/Sheet3.pdf)
 
 
 <!-- ### Robust Kronecker Component Analysis

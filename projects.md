@@ -18,6 +18,6 @@ divisor graph introduced by [Paul Erdös and Eric Saias](http://matwbn.icm.edu.p
 *Two different representation of the divisor graph for n=9*
 
 
-* [Slides introduction](../PDF/projects/tipe.pdf)
-* [Slides implementation](../PDF/projects/info.pdf)
+* [Slides introduction](../PDF/projects/tipe/tipe.pdf)
+* [Slides implementation](../PDF/projects/tipe/info.pdf)
 * [Code](https://github.com/ncloarec/TIPE)
