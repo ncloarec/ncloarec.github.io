@@ -30,6 +30,6 @@ My preferred applications are in data science, computer vision, and medical rese
 
 ## Contact
 
-Nicolas Cloarec ([GitHub](http://github.com/ncloarec)/[LinkedIn](https://linkedin.com/in/nicolas-cloarec-555157109)/[Quora](https://www.quora.com/profile/Nicolas-Cloarec)).
+Nicolas Cloarec ([GitHub](http://github.com/ncloarec)/[LinkedIn](https://linkedin.com/in/nicolas-cloarec-555157109).
 
 Mail: ncloarec [at] gmail [dot] com
