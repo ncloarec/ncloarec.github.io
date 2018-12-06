@@ -13,6 +13,7 @@ I am a [MVA](https://www.enpc.fr/en/masters-mathematics-vision-learning) (MSc Ma
 <!-- {{ site.author.bio }} -->
 
 See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Cloarec_CV.pdf).
+
 <!-- or my short [Resume](http://ncloarec.github.io/PDF/Cloarec_resume.pdf). -->
 
 <!-- ## Current research interests -->

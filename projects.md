@@ -24,6 +24,7 @@ feature matrix as direction.
 
 The purpose of this homework is to study some properties about *soft-thresholding*,
  *hard-thresholding* and *Dantzig* estimators.
+ 
 We also give an oracle inequality in probability in the context of sparcity for
 the *soft-thresholding* estimator.
 
@@ -34,6 +35,7 @@ the *soft-thresholding* estimator.
 
 The purpose of this homework is to study some properties about *least squares
 estimators* for **misspecified models**.
+
 We also give a proof of the *Hoeffding's lemma* for a bounded random
 variable and show properties of [sub-gaussian variables](https://en.wikipedia.org/wiki/Sub-Gaussian_distribution).
 
