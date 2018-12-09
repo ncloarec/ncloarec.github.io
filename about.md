@@ -17,18 +17,6 @@ I am interested in Trading, Optimization, Statistics and Machine Learning.
 
 See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Cloarec_CV.pdf).
 
-<!-- ## Current research interests -->
-
-<!-- Besides what I do at work, I am interested in a variety of topics in Machine Learning, notably in statistical learning and optimisation.
-
-* Non-euclidean geometry in Machine Learning (manifold learning, Riemannian optimisation)
-* Approximate inference in probabilistic graphical models
-* Representation learning and component analysis
-* Tensor methods, sparse coding, compressed sensing (see my MSc thesis)
-* Social network analysis, more precisely influence propagation
-
-My preferred applications are in data science, computer vision, and medical research. -->
-
 ## Contact
 
 Nicolas Cloarec ([GitHub](http://github.com/ncloarec)/[LinkedIn](https://linkedin.com/in/nicolas-cloarec-555157109)).
