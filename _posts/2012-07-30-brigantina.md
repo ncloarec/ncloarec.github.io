@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Beginning of 13th National Summer School"
+title: "Selected for the 13th National Summer School"
 comments: true
 description: "Participation with the Orsay team at this international competition."
 keywords: ""
