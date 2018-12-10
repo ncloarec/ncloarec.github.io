@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quantitative Analyst Trailstone GmbH"
+title: "Quantitative Research Analyst Trailstone GmbH"
 comments: true
 description: "Short term power trading, front-office "
 keywords: ""
