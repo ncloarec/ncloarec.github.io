@@ -24,7 +24,8 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
 ## Visualizing and understanding convolutional networks
 *Course :* [Object recognition and computer vision](https://www.di.ens.fr/willow/teaching/recvis18/), prof. [Ivan Laptev](https://www.di.ens.fr/~laptev/).
 
-![Architecture of the CNN used for the tests on Tiny ImageNet database from Standford University](/assets/images/architecture.svg)
+| | ![Architecture of the CNN used for the tests on Tiny ImageNet database from Standford University](/assets/images/architecture.svg) | |
+
 The purpose of this project was to study and implement the paper from [Zeiler et al.](https://arxiv.org/abs/1311.2901).
 
 It focuses on understanding intermediate feature layers that have been learned by convolutional neural networks during the training part using **deconvolution to project the feature activations back to the input pixel space** in order to *identify the input stimuli that excite individual feature maps at any layer in the model*.
