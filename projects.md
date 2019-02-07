@@ -17,12 +17,6 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
  exposed in this paper is clearly the super fast exponential convergence to the true value of the integral compared to the other methods such as *Monte Carlo*, *Quasi Monte
  Carlo* or *Kernel Herding*.
 
-
- Through this report, we detail every results from the article mentioned above with the goal to clarify and explain details that could have been omitted intentionally or not and which, in our view, make the *Briol’s and al.* approach more natural, intuitive and easier to understand.
-
-
- Lastly, we were able to successfully reproduce all the *simulations* from their paper with an additional *application in pricing of financial derivatives with real worlds dataset*.
-
 * [Report](../PDF/projects/FWBQ_report.pdf)
 * [Code](https://github.com/ncloarec/FWBQ_notebooks)
 
@@ -33,8 +27,7 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
 ![Architecture of the CNN used for the tests on Tiny ImageNet database from Standford University](/assets/images/architecture.svg)
 The purpose of this project was to study and implement the paper from [Zeiler et al.](https://arxiv.org/abs/1311.2901).
 
-It focuses on understanding intermediate feature layers that have been learned by convolutional neural networks during the training part using **deconvolution to project the feature activations back to the input pixel space**. By introducing such visualization technique, we are able to *identify the input stimuli that excite individual feature maps at any layer in the model*.
-
+It focuses on understanding intermediate feature layers that have been learned by convolutional neural networks during the training part using **deconvolution to project the feature activations back to the input pixel space** in order to *identify the input stimuli that excite individual feature maps at any layer in the model*.
 
 * [Report](../PDF/projects/Deconv_net_report.pdf)
 
