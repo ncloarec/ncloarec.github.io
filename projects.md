@@ -24,7 +24,7 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
 ## Visualizing and understanding convolutional networks
 *Course :* [Object recognition and computer vision](https://www.di.ens.fr/willow/teaching/recvis18/), prof. [Ivan Laptev](https://www.di.ens.fr/~laptev/).
 
-| | ![Architecture of the CNN used for the tests on Tiny ImageNet database from Standford University](/assets/images/architecture.svg) | |
+![architecture](/assets/images/architecture.svg)
 
 The purpose of this project was to study and implement the paper from [Zeiler et al.](https://arxiv.org/abs/1311.2901).
 
