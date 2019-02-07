@@ -23,7 +23,7 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
 
  Lastly, we were able to successfully reproduce all the *simulations* from their paper with an additional *application in pricing of financial derivatives with real worlds dataset*.
 
-* [Report](../PDF/projects/main.pdf)
+* [Report](../PDF/projects/FWBQ_report.pdf)
 * [Code](https://github.com/ncloarec/FWBQ_notebooks)
 
 
