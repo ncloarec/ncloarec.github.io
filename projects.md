@@ -6,6 +6,25 @@ permalink: /projects/
 
 Below are some select projects or homework I found interesting to share.
 
+## Frank-Wolfe Bayesian Quadrature
+*Course :* [Bayesian statistics](https://www.ensae.fr/courses/statistique-bayesienne/),
+ prof. [Rémi Bardenet](https://rbardenet.github.io/)
+
+* [Report](../PDF/projects/main.pdf)
+
+
+## Visualizing and understanding convolutional networks
+*Course :* [Object recognition and computer vision](https://www.di.ens.fr/willow/teaching/recvis18/), prof. [Ivan Laptev](https://www.di.ens.fr/~laptev/).
+
+The purpose of this project was to study and implement the paper from [Zeiler et al.](https://arxiv.org/abs/1311.2901).
+
+It focuses on understanding intermediate feature layers that have been learned by convolutional neural networks during the training part using deconvolution to project the feature activations back to the input pixel space. By introducing such visualization technique, we are able to identify the input stimuli that excite individual feature maps at any layer in the model.
+
+![Architecture of the CNN used for the tests on Tiny ImageNet database from Standford University](/assets/images/graph1.svg)
+
+* [Report](../PDF/projects/Deconv_net_report.pdf)
+
+
 ## Matrix completion by singular value thresholding
 
 *Course :* [High-dimensional statistics](http://www.ensae.fr/courses/statistique-en-grande-dimension/), prof. [Alexandre Tsybakov](http://www.crest.fr/pagesperso.php?user=2891)
