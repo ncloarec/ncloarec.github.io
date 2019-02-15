@@ -6,6 +6,23 @@ permalink: /projects/
 
 Below are some select projects or homework I found interesting to share.
 
+## On the Gaussian Wigner matrix
+*Course :* [Random Matrix Theory](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/theorie-des-matrices-aleatoires-et-apprentissage-214242.kjsp?RH=1242430202531),
+ prof. [Jamal Najim](http://www-syscom.univ-mlv.fr/~najim/).
+
+ The purpose of this homework is to study asymptotic spectral properties of the *gaussian Wigner matrix*,
+ where entries correspond to *iid* centered complex valued gaussian variables such
+ that the final matrix is hermitian.
+
+
+ While the spectrum of a large random matrix is itself random and at first
+  supposed to be complicated, its behavior stabilizes when the
+ dimension of the underlying matrices tends to infinity, eventually tending
+ towards a completely deterministic spectrum.
+
+ * [Subject](../PDF/projects/RMT/HW1.pdf)
+ * [Solution](../PDF/projects/RMT/HW1_CLOAREC_ROUSSEAU.pdf)
+
 ## Frank-Wolfe Bayesian Quadrature
 *Course :* [Bayesian statistics](https://www.ensae.fr/courses/statistique-bayesienne/),
  prof. [Rémi Bardenet](https://rbardenet.github.io/).
@@ -18,7 +35,7 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
  Carlo* or *Kernel Herding*.
 
 * [Report](../PDF/projects/FWBQ_report.pdf)
-* [Code](https://github.com/ncloarec/FWBQ_notebooks)
+* [GitHub](https://github.com/ncloarec/FWBQ_project)
 
 
 ## Visualizing and understanding convolutional networks
