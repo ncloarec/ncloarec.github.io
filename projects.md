@@ -22,6 +22,7 @@ Below are some select projects or homework I found interesting to share.
 
  * [Subject](../PDF/projects/RMT/HW1.pdf)
  * [Solution](../PDF/projects/RMT/HW1_CLOAREC_ROUSSEAU.pdf)
+ * [GitHub](https://github.com/ncloarec/RMT_HW1)
 
 ## Frank-Wolfe Bayesian Quadrature
 *Course :* [Bayesian statistics](https://www.ensae.fr/courses/statistique-bayesienne/),
@@ -61,6 +62,7 @@ We also show a [trace inequality](https://en.wikipedia.org/wiki/Trace_inequality
 
 * [Subject](../PDF/projects/tsybakov/HW4.pdf)
 * [Solution](../PDF/projects/tsybakov/HW4_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW4_Tsybakov)
 
 ## Singular values and sparcity
 
@@ -77,6 +79,7 @@ feature matrix as direction.
 
 * [Subject](../PDF/projects/tsybakov/HW3.pdf)
 * [Solution](../PDF/projects/tsybakov/HW3_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW3_Tsybakov)
 
 ## On soft and hard thresholding estimators
 
@@ -90,6 +93,7 @@ the *soft-thresholding* estimator.
 
 * [Subject](../PDF/projects/tsybakov/HW2.pdf)
 * [Solution](../PDF/projects/tsybakov/HW2_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW2_Tsybakov)
 
 ## Linear model and high dimension
 
@@ -103,6 +107,7 @@ variable and show properties of [sub-gaussian variables](https://en.wikipedia.or
 
 * [Subject](../PDF/projects/tsybakov/HW1.pdf)
 * [Solution](../PDF/projects/tsybakov/HW1_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW1_Tsybakov)
 
 
 ## On the divisor graph
