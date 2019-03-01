@@ -6,6 +6,16 @@ permalink: /projects/
 
 Below are some select projects or homework I found interesting to share.
 
+## Online Learning and sleeping regret
+*Course :* [Prediction for individual sequences](http://pierre.gaillard.me/teaching/mva.html),
+ prof. [Rémi Bardenet](http://pierre.gaillard.me/).
+
+ The purpose of this homework is to study some properties of online learning
+ algorithms such as **prod algorithm** in a context of a finite decision set where only a subset of active decisions is available at each time *t* while the other decisions are sleeping and cannot be chosen.
+
+* [Subject](../PDF/projects/MVA/Online_Learning/Subject.pdf)
+* [Solution](../PDF/projects/MVA/Online_Learning/Homework.pdf)
+
 ## Frank-Wolfe Bayesian Quadrature
 *Course :* [Bayesian statistics](https://www.ensae.fr/courses/statistique-bayesienne/),
  prof. [Rémi Bardenet](https://rbardenet.github.io/).
