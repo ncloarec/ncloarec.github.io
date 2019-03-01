@@ -26,7 +26,7 @@ Below are some select projects or homework I found interesting to share.
 
 ## Online Learning and sleeping regret
 *Course :* [Prediction for individual sequences](http://pierre.gaillard.me/teaching/mva.html),
- prof. [Rémi Bardenet](http://pierre.gaillard.me/).
+ prof. [Pierre Gaillard](http://pierre.gaillard.me/).
 
  The purpose of this homework is to study some properties of online learning
  algorithms such as **prod algorithm** in a context of a finite decision set where only a subset of active decisions is available at each time *t* while the other decisions are sleeping and cannot be chosen.
