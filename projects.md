@@ -6,6 +6,24 @@ permalink: /projects/
 
 Below are some select projects or homework I found interesting to share.
 
+## On the Gaussian Wigner matrix
+*Course :* [Random Matrix Theory](http://math.ens-paris-saclay.fr/version-francaise/formations/master-mva/contenus-/theorie-des-matrices-aleatoires-et-apprentissage-214242.kjsp?RH=1242430202531),
+ prof. [Jamal Najim](http://www-syscom.univ-mlv.fr/~najim/).
+
+ The purpose of this homework is to study asymptotic spectral properties of the *gaussian Wigner matrix*,
+ where entries correspond to *iid* centered complex valued gaussian variables such
+ that the final matrix is hermitian.
+
+
+ While the spectrum of a large random matrix is itself random and at first
+  supposed to be complicated, its behavior stabilizes when the
+ dimension of the underlying matrices tends to infinity, eventually tending
+ towards a completely deterministic spectrum.
+
+ * [Subject](../PDF/projects/RMT/HW1.pdf)
+ * [Solution](../PDF/projects/RMT/HW1_CLOAREC_ROUSSEAU.pdf)
+ * [GitHub](https://github.com/ncloarec/RMT_HW1)
+
 ## Online Learning and sleeping regret
 *Course :* [Prediction for individual sequences](http://pierre.gaillard.me/teaching/mva.html),
  prof. [Rémi Bardenet](http://pierre.gaillard.me/).
@@ -28,7 +46,7 @@ It focuses on the problem of **probabilistic integration** interpreting the nume
  Carlo* or *Kernel Herding*.
 
 * [Report](../PDF/projects/FWBQ_report.pdf)
-* [Code](https://github.com/ncloarec/FWBQ_notebooks)
+* [GitHub](https://github.com/ncloarec/FWBQ_project)
 
 
 ## Visualizing and understanding convolutional networks
@@ -54,6 +72,7 @@ We also show a [trace inequality](https://en.wikipedia.org/wiki/Trace_inequality
 
 * [Subject](../PDF/projects/tsybakov/HW4.pdf)
 * [Solution](../PDF/projects/tsybakov/HW4_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW4_Tsybakov)
 
 ## Singular values and sparcity
 
@@ -70,6 +89,7 @@ feature matrix as direction.
 
 * [Subject](../PDF/projects/tsybakov/HW3.pdf)
 * [Solution](../PDF/projects/tsybakov/HW3_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW3_Tsybakov)
 
 ## On soft and hard thresholding estimators
 
@@ -83,6 +103,7 @@ the *soft-thresholding* estimator.
 
 * [Subject](../PDF/projects/tsybakov/HW2.pdf)
 * [Solution](../PDF/projects/tsybakov/HW2_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW2_Tsybakov)
 
 ## Linear model and high dimension
 
@@ -96,6 +117,7 @@ variable and show properties of [sub-gaussian variables](https://en.wikipedia.or
 
 * [Subject](../PDF/projects/tsybakov/HW1.pdf)
 * [Solution](../PDF/projects/tsybakov/HW1_Nicolas_CLOAREC.pdf)
+* [GitHub](https://github.com/ncloarec/HW1_Tsybakov)
 
 
 ## On the divisor graph
