@@ -15,7 +15,7 @@ I am currently pursuing a highly selective Master's Degree programs :
 
 I am interested in Trading, Optimization, Statistics and Machine Learning.
 
-See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Cloarec_CV.pdf).
+See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Resume_Nicolas_Cloarec.pdf).
 
 ## Contact
 
