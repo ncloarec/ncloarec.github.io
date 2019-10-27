@@ -7,7 +7,7 @@ permalink: /projects/
 Below are some selected projects and homework I've found interesting to share.
 
 ## Kernel methods in Machine Learning
-*Course *: [Kernel Methods](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019mva/index.html), **prof** [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/).
+*Course :* [Kernel Methods](http://members.cbio.mines-paristech.fr/~jvert/svn/kernelcourse/course/2019mva/index.html), **prof** [Jean-Philippe Vert](http://members.cbio.mines-paristech.fr/~jvert/).
 
 The purpose of this homework is to play with kernel, reproducing kernel Hilbert spaces (RKHS) and explore some links with sobolev spaces and classic constrained optimization problems.
 
