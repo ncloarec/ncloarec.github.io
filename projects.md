@@ -42,7 +42,7 @@ prof. [Guillaume Lecué](https://www.ensae.fr/courses/compressed-sensing/).
 The purpose of this homework is to study the two following papers: [On the gap between RIP-properties and sparse recovery conditions](https://arxiv.org/abs/1504.05073) by Sjoerd Dirksen, Guillaume Lecué, Holger Rauhut and [Sparse recovery under weak moment assumptions](https://arxiv.org/abs/1401.2188) by Guillaume Lecué, Shahar Mendelson.
 
 
-* [Report](../PDF/projects/RMT/Report_CLOAREC_SIGALLA.pdf)
+* [Report](../PDF/projects/Report_CLOAREC_SIGALLA.pdf)
 * [GitHub](https://github.com/ncloarec/Compress_sensing_project)
 
 ## Online Learning and sleeping regret
