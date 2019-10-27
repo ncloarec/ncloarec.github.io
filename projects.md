@@ -13,19 +13,7 @@ The purpose of this homework is to play with kernel, reproducing kernel Hilbert 
 
 * [Subject](../PDF/projects/MVA/Kernel_Methods/Subject.pdf)
 * [Solution](../PDF/projects/MVA/Kernel_Methods/Homework.pdf)
- * [GitHub](https://github.com/ncloarec/Kernel_methods_HW)
-
-## Compress Sensing project
-*Course :* [Compress Sensing](https://www.ensae.fr/courses/compressed-sensing/),
- prof. [Guillaume Lecué](https://www.ensae.fr/courses/compressed-sensing/).
-
- The purpose of this homework is to study the two following papers:
- * [On the gap between RIP-properties and sparse recovery conditions](https://arxiv.org/abs/1504.05073) by Sjoerd Dirksen, Guillaume Lecué, Holger Rauhut.
- * [Sparse recovery under weak moment assumptions](https://arxiv.org/abs/1401.2188) by Guillaume Lecué, Shahar Mendelson.
-
-
- * [Report](../PDF/projects/RMT/Report_CLOAREC_SIGALLA.pdf)
- * [GitHub](https://github.com/ncloarec/Compress_sensing_project)
+* [GitHub](https://github.com/ncloarec/Kernel_methods_HW)
 
 
 ## On the Gaussian Wigner matrix
@@ -45,6 +33,17 @@ The purpose of this homework is to play with kernel, reproducing kernel Hilbert 
  * [Subject](../PDF/projects/RMT/HW1.pdf)
  * [Solution](../PDF/projects/RMT/HW1_CLOAREC_ROUSSEAU.pdf)
  * [GitHub](https://github.com/ncloarec/RMT_HW1)
+
+
+## Compress Sensing project
+*Course :* [Compress Sensing](https://www.ensae.fr/courses/compressed-sensing/),
+prof. [Guillaume Lecué](https://www.ensae.fr/courses/compressed-sensing/).
+
+The purpose of this homework is to study the two following papers: [On the gap between RIP-properties and sparse recovery conditions](https://arxiv.org/abs/1504.05073) by Sjoerd Dirksen, Guillaume Lecué, Holger Rauhut and [Sparse recovery under weak moment assumptions](https://arxiv.org/abs/1401.2188) by Guillaume Lecué, Shahar Mendelson.
+
+
+* [Report](../PDF/projects/RMT/Report_CLOAREC_SIGALLA.pdf)
+* [GitHub](https://github.com/ncloarec/Compress_sensing_project)
 
 ## Online Learning and sleeping regret
 *Course :* [Prediction for individual sequences](http://pierre.gaillard.me/teaching/mva.html),
