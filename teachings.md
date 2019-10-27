@@ -4,7 +4,7 @@ title: Teachings
 permalink: /teachings/
 ---
 
-Here you can find some teachings with links to exercises *in french* I've selected per chapter when I was mathematics teaching assistant at
+Here you can find some teachings with links to exercises I've written for my french students when I was mathematics teaching assistant at
 + [Collège Stanislas](https://www.stanislas.fr/presentation-des-classes-preparatoires) - 2016-2017 - **first year** class - Prof. Célestin Rakotoniaina
 + [Institut Bossuet](https://www.institutbossuet.fr/) - 2017-2018 - **second year** *students* at [Louis-le-grand](), [Henri IV](), [Saint Louis]().
 
