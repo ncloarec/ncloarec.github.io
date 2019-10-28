@@ -2,7 +2,7 @@
 # SEO settings
 title: "Nicolas "
 title2: "Cloarec" # default: ""
-description: "MVA student in Machine Learning."
+description: "MVA graduated in Machine Learning."
 keywords: "Nicolas, Cloarec, data, science, machine, learning, statistics, optimisation, optimization, KDRSDL, ICCV, geometric, deep, graph, manifold"
 url: http://ncloarec.github.io/ # site url
 baseurl: "" # apply repo name if use it under gh-pages branch
@@ -32,7 +32,7 @@ author:
   name     : "Nicolas Cloarec"
   job      : "graduate student in Machine Learning"
 
-  bio      : "<p>Hi! I'm Nicolas Cloarec , a <em>freshly graduated student in Machine Learning</em> from ENS Paris-Saclay  (<a href="https://www.enpc.fr/en/masters-mathematics-vision-learning">Research Master MVA</a> one of the oldest and most renowned master in machine learning, both for research and for companies. It became very selective in the past couple of years.) and from ENSAE ParisTech (<a href="http://www.ensae.fr/en/data-science/">Master of Engineering - MgEng Computer Science</a> - France's top schools of economics and statistics).</p>"
+  bio      : "Hi! I'm **Nicolas Cloarec**, a *freshly graduated student in Machine Learning* from **ENS Paris-Saclay** ([Research Master MVA](https://www.enpc.fr/en/masters-mathematics-vision-learning) one of the oldest and most renowned master in machine learning, both for research and for companies. It became very selective in the past couple of years.) and from **ENSAE ParisTech** ([Master of Engineering - MgEng Computer Science](http://www.ensae.fr/en/data-science/) - France's top schools of economics and statistics)."
   thumb    : /images/author.jpg
   email    : ncloarec@gmail.com
   url      : http://ncloarec.github.io
