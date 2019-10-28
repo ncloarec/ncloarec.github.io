@@ -6,14 +6,10 @@ permalink: /about/
 
 ![The author](../assets/images/me.jpg)
 
-Hi! I'm **Nicolas Cloarec**, a *graduate student in Machine Learning*.
-
-I am currently pursuing a highly selective Master's Degree programs :
-*  [Research Master MVA](https://www.enpc.fr/en/masters-mathematics-vision-learning) (MSc Mathematics, Vision, Learning) at ENS Paris-Saclay (formerly ENS Cachan)
-* [Master of Engineering - MgEng Computer Science](http://www.ensae.fr/en/data-science/) at ENSAE ParisTech (France's top schools of economics and statistics).
+Hi! I'm **Nicolas Cloarec**, a *freshly graduated student in Machine Learning* from ENS Paris-Saclay ([Research Master MVA](https://www.enpc.fr/en/masters-mathematics-vision-learning) one of the oldest and most renowned master in machine learning, both for research and for companies. It became very selective in the past couple of years.) and from ENSAE ParisTech ([Master of Engineering - MgEng Computer Science](http://www.ensae.fr/en/data-science/) - France's top schools of economics and statistics).
 
 
-I am interested in Trading, Optimization, Statistics and Machine Learning.
+I am interested in applying optimization, statistics and machine learning techniques to build systematic trading systems.
 
 See my [Curriculum Vitae](http://ncloarec.github.io/PDF/Cloarec_CV.pdf).
 
