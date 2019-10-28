@@ -31,7 +31,8 @@ sass:
 author:
   name     : "Nicolas Cloarec"
   job      : "graduate student in Machine Learning"
-  bio      : "<p>I am currently pursuing a highly selective dual Master’s Degree programs :</p><ul> <li><a href=\"https://www.enpc.fr/en/masters-mathematics-vision-learning\">Research Master MVA</a> (MSc Mathematics, Vision, Learning) at ENS Paris-Saclay (formerly ENS Cachan)</li> <li><a href=\"http://www.ensae.fr/en/data-science/\">Master of Engineering - MgEng Computer Science</a> at ENSAE ParisTech (France’s top schools of economics and statistics).</li></ul><p>I am interested in Trading, Optimization, Statistics and Machine Learning.</p>"
+
+  bio      : "<p>Hi! I'm <strong>Nicolas Cloarec</strong>, a <em>freshly graduated student in Machine Learning</em> from <strong>ENS Paris-Saclay</strong> (<a href="https://www.enpc.fr/en/masters-mathematics-vision-learning">Research Master MVA</a> one of the oldest and most renowned master in machine learning, both for research and for companies. It became very selective in the past couple of years.) and from <strong>ENSAE ParisTech</strong> (<a href="http://www.ensae.fr/en/data-science/">Master of Engineering - MgEng Computer Science</a> - France's top schools of economics and statistics).</p>"
   thumb    : /images/author.jpg
   email    : ncloarec@gmail.com
   url      : http://ncloarec.github.io
